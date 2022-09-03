@@ -1,5 +1,7 @@
 body{
     background-image: linear-gradient(to right,#4CA1AF,#2C3E50);
+    /* background-repeat: no-repeat;
+    height: 100%; */
 }
 .container {
     border: 1px solid #cccccc;
@@ -14,7 +16,7 @@ body{
 
     left: 50%;
     background-image:linear-gradient(to right,#e96443,#904e95) ;
-
+    background-repeat: no-repeat;
     transform: translate(-50%, -50%);
 
     width: 450px;
